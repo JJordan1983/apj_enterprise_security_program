@@ -86,3 +86,7 @@ APJ performs:
 
 All documentation is under:
 
+Portfolio/Supply_Chain/
+Portfolio/POAM/
+Portfolio/Risk/
+Portfolio/DevSecOps/
