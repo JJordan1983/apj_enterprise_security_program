@@ -1,0 +1,22 @@
+# Security Program Management Plan  
+APJ SecureCloud  
+Version 1.0
+
+## 1. Purpose
+Defines governance for the APJ SecureCloud security program.
+
+## 2. Roles
+- Security Program Lead
+- DevSecOps Lead
+- IR Lead
+- Compliance Manager
+
+## 3. Governance Activities
+- Quarterly risk review
+- Quarterly POA&M update
+- Annual SSP update
+- Monthly ConMon reporting (if FedRAMP authorized)
+- Annual tabletop
+
+## 4. Approval
+Approved by APJ Security Program Lead.
