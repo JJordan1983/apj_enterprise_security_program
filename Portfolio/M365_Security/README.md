@@ -66,4 +66,16 @@ This policy set enforces:
 
 ### 5. Evidence Locations
 Evidence referenced by these policies exists in:
+Portfolio/Access_Reviews/
+Portfolio/ConMon/
+Portfolio/Incident_Response/
+Portfolio/DevSecOps/
+Portfolio/Risk/
+Portfolio/POAM/
+Portfolio/SSP_Low/Diagrams/
+
+
+This README serves as the auditor’s guide to your security governance framework.
+
+---
 
